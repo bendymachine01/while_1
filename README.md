@@ -30,4 +30,4 @@ Fin del programa.
 se muestra el resultado 
 
 ### Diseño
-![Diagrama de flujo](diagrama.png "Diagrama de flujo")
+![Diagrama de flujo](Diagrama.png "Diagrama de flujo")
